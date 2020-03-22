@@ -1,3 +1,7 @@
 test
+<<<<<<< HEAD
 
 ohhh modify
+=======
+modify edu2.txt file
+>>>>>>> b5231f597fa128dd267539f299c1a5fadd6fad35
